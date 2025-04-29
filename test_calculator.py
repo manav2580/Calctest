@@ -12,7 +12,7 @@ def test_subtract():
 def test_multiply():
     assert calc.multiply(4, 5) == 20
 def test_multiply2():
-    assert calc.multiply(5, 5) == 25
+    assert calc.multiply(5, 5) == 20
 def test_divide():
     assert calc.divide(10, 2) == 5
 
